@@ -1,0 +1,16 @@
+Remplir les configurations entre les guillemets
+
+Assets (à placer dans le dossier asset approprié)
+
+font = "concertone.ttf"
+background = "bg3.jpg"
+
+Taille de l'écran(yes/no)
+
+fullscreen = "no"
+
+Couleur du texte (rgb, 0 à 255)
+
+rouge = "0"
+vert = "0"
+bleu = "0"
